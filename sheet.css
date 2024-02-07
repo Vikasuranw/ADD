@@ -1,0 +1,17 @@
+div{
+    width: 350px;
+    height: 350px;
+    background-color: aqua;
+    position: relative;
+    z-index: 1;
+}
+
+nav{
+    width: 100px;
+    height: 100px;
+    background-color:red;
+    position: absolute;
+    top: 0;
+    right: 0;
+  
+}
